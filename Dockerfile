@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM node:alpine
 LABEL org.label-schema.vendor = "Astzweig UG(haftungsbeschränkt) & Co. KG"
 LABEL org.label-schema.version = "1.0.0"
 LABEL org.label-schema.description = "A docker container to run Prime CMS."
